@@ -1,0 +1,15 @@
+C:\Users\WIN 10\source\repos\NONAME\BAITAP\BAITAP\bin\Debug\net6.0\BAITAP.exe
+C:\Users\WIN 10\source\repos\NONAME\BAITAP\BAITAP\bin\Debug\net6.0\BAITAP.deps.json
+C:\Users\WIN 10\source\repos\NONAME\BAITAP\BAITAP\bin\Debug\net6.0\BAITAP.runtimeconfig.json
+C:\Users\WIN 10\source\repos\NONAME\BAITAP\BAITAP\bin\Debug\net6.0\BAITAP.dll
+C:\Users\WIN 10\source\repos\NONAME\BAITAP\BAITAP\bin\Debug\net6.0\ref\BAITAP.dll
+C:\Users\WIN 10\source\repos\NONAME\BAITAP\BAITAP\bin\Debug\net6.0\BAITAP.pdb
+C:\Users\WIN 10\source\repos\NONAME\BAITAP\BAITAP\obj\Debug\net6.0\BAITAP.csproj.AssemblyReference.cache
+C:\Users\WIN 10\source\repos\NONAME\BAITAP\BAITAP\obj\Debug\net6.0\BAITAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\source\repos\NONAME\BAITAP\BAITAP\obj\Debug\net6.0\BAITAP.AssemblyInfoInputs.cache
+C:\Users\WIN 10\source\repos\NONAME\BAITAP\BAITAP\obj\Debug\net6.0\BAITAP.AssemblyInfo.cs
+C:\Users\WIN 10\source\repos\NONAME\BAITAP\BAITAP\obj\Debug\net6.0\BAITAP.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\source\repos\NONAME\BAITAP\BAITAP\obj\Debug\net6.0\BAITAP.dll
+C:\Users\WIN 10\source\repos\NONAME\BAITAP\BAITAP\obj\Debug\net6.0\ref\BAITAP.dll
+C:\Users\WIN 10\source\repos\NONAME\BAITAP\BAITAP\obj\Debug\net6.0\BAITAP.pdb
+C:\Users\WIN 10\source\repos\NONAME\BAITAP\BAITAP\obj\Debug\net6.0\BAITAP.genruntimeconfig.cache
